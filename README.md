@@ -4,45 +4,52 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-boughattas&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9&show_icons=true" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-boughattas&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9" alt="streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-boughattas&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9&layout=compact" alt="languages" height="160"/>
-</p>
-
----
-
-## 🐍 Activity Graph
-
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=mohamed-boughattas&theme=github-dark&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
-I design and automate data pipelines that turn raw data into actionable insights. I work across the stack — from ingestion and transformation to orchestration and cloud deployment — with a focus on reliability, scalability, and clean engineering.
+Senior Data Engineer with 7+ years building scalable data infrastructure.
+
+**What I do:**
+- Build & automate ETL/ELT pipelines that turn raw data into actionable insights
+- Design cloud-native data architectures on AWS
+- Implement data quality frameworks and observability
+
+**Core stack:** Python, SQL, Airflow, dbt, AWS
 
 - 📍 Based in France
-- 💼 Senior Data Engineer
-- 🔭 Currently exploring: real-time streaming architectures
-
-Currently building with Python, SQL, Airflow, dbt, and AWS.
+- 🔭 Exploring: real-time streaming & data mesh
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,postgresql,mysql,aws,docker,terraform,git,github,airflow,dbt,pytest,pandas,spark" />
-</p>
+### Languages & Processing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-41358D?style=for-the-badge&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,tableau,powerbi,duckdb,redshift,pydantic" />
-</p>
+### Orchestration & Infrastructure
+![Airflow](https://img.shields.io/badge/Airflow-017EEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dlt](https://img.shields.io/badge/dlt-4CBB17?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logoColor=white)
+
+### Tooling & BI
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ---
 
