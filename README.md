@@ -29,7 +29,7 @@ Senior Data Engineer with 7+ years building scalable data infrastructure.
 ![Polars](https://img.shields.io/badge/Polars-CD5709?style=for-the-badge&logo=polars&logoColor=white)
 
 ### Orchestration & Infrastructure
-![Airflow](https://img.shields.io/badge/Airflow-017EEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-430099?style=for-the-badge&logo=dagster&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![dlt](https://img.shields.io/badge/dlt-4CBB17?style=for-the-badge&logo=dlt&logoColor=white)
