@@ -49,7 +49,7 @@ Senior Data Engineer with 7+ years building scalable data infrastructure.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ---
 
@@ -67,7 +67,7 @@ Modern ELT pipeline for cryptocurrency market analysis.
 - **Visualization Layer:** Streamlit dashboards
 - **Serving Layer:** FastAPI serving transformed data
 
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-430099?style=flat&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PyAirbyte](https://img.shields.io/badge/PyAirbyte-FF6C37?style=flat&logo=airbyte&logoColor=white) ![Pandera](https://img.shields.io/badge/Pandera-FFD700?style=flat&logoColor=black)
+**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dagster](https://img.shields.io/badge/Dagster-430099?style=flat&logo=dagster&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PyAirbyte](https://img.shields.io/badge/PyAirbyte-FF6C37?style=flat&logo=airbyte&logoColor=white) ![Pandera](https://img.shields.io/badge/Pandera-FFD700?style=flat&logoColor=black)
 
 ---
 
