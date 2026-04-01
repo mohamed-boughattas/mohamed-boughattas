@@ -29,18 +29,18 @@ Senior Data Engineer with 7+ years building scalable data infrastructure.
 ![Polars](https://img.shields.io/badge/Polars-CD5709?style=for-the-badge&logo=polars&logoColor=white)
 
 ### Orchestration & Infrastructure
-![Airflow](https://img.shields.io/badge/Airflow-017EEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017EEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-430099?style=for-the-badge&logo=dagster&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![dlt](https://img.shields.io/badge/dlt-4CBB17?style=for-the-badge&logo=dlthub&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![dlt](https://img.shields.io/badge/dlt-4CBB17?style=for-the-badge&logo=dlt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=redshift&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Tooling & BI
@@ -48,7 +48,7 @@ Senior Data Engineer with 7+ years building scalable data infrastructure.
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
