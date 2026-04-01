@@ -15,8 +15,7 @@ Senior Data Engineer with 7+ years building scalable data infrastructure.
 
 **Core stack:** Python, SQL, Airflow, dbt, AWS
 
-- 📍 Based in France
-- 🔭 Exploring: real-time streaming & data mesh
+**Currently focusing on:** Real-time streaming architectures · Apache Kafka · Apache Flink
 
 ---
 
