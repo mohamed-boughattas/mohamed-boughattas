@@ -82,7 +82,7 @@ End-to-end data engineering pipeline for gaming analytics.
 - **Storage Layer:** MotherDuck for analytics queries
 - **Visualization Layer:** Present insights with Marimo and Rill dashboards
 
-**Tech Stack:** ![dlt](https://img.shields.io/badge/dlt-4CBB17?style=flat&logo=dlthub&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-3E4F3F?style=flat&logoColor=white) ![SQLMesh](https://img.shields.io/badge/SQLMesh-2563EB?style=flat&logoColor=white) ![Soda](https://img.shields.io/badge/Soda-14B8A6?style=flat&logoColor=white) ![Marimo](https://img.shields.io/badge/Marimo-10B981?style=flat&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![MotherDuck](https://img.shields.io/badge/MotherDuck-4169E1?style=flat&logoColor=white)
+**Tech Stack:** ![dlt](https://img.shields.io/badge/dlt-4CBB17?style=flat&logo=dlt&logoColor=white) ![Prefect](https://img.shields.io/badge/Prefect-3E4F3F?style=flat&logoColor=white) ![SQLMesh](https://img.shields.io/badge/SQLMesh-2563EB?style=flat&logoColor=white) ![Soda](https://img.shields.io/badge/Soda-14B8A6?style=flat&logoColor=white) ![Marimo](https://img.shields.io/badge/Marimo-10B981?style=flat&logoColor=white) ![Rill](https://img.shields.io/badge/Rill-7B3F00?style=flat&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![MotherDuck](https://img.shields.io/badge/MotherDuck-4169E1?style=flat&logoColor=white)
 
 ---
 
