@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Boughattas 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+Data+Engineer;Building+Scalable+Data+Pipelines;AWS+%7C+Python+%7C+SQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Data+Engineer;ETL/ELT+Pipeline+Architect;Airflow+%7C+Dagster+%7C+dbt+%7C+dlt;AWS+%7C+Docker+%7C+Terraform;PostgreSQL+%7C+Snowflake+%7C+DuckDB)](https://git.io/typing-svg)
 
 ---
 
